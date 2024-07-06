@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ahmedyasser200211@gmail.com**
 
-- 🔭 I’m currently an intern at intixel
+- 🔭 I’m currently an intern at EJADA.
 
 - 🌱 I’m currently learning AI, Algorithms
 
