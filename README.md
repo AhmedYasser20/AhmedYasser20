@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **ahmedyasser200211@gmail.com**
 
-- 🔭 I’m currently an intern at EJADA.
-
 - 🌱 I’m currently learning AI, Algorithms
 
 - 💬 Ask me about C++, problem-solving, Embedded C, OS
