@@ -9,6 +9,6 @@
 
 - 🌱 I’m currently learning AI, Algorithms
 
-- 💬 Ask me about C++, problem-solving, Embedded C, OS
+- 💬 Ask me about C++, Flutter and Backend 
   
 - ⚡ Fun fact Most problem-solving problems are not real
